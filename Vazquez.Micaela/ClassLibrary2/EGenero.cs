@@ -1,0 +1,1 @@
+﻿public enum ETipo { Accion, Romantica, CienciaFiccion }

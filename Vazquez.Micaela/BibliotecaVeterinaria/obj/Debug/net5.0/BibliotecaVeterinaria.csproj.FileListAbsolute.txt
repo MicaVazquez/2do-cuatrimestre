@@ -1,0 +1,12 @@
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\BibliotecaVeterinaria\bin\Debug\net5.0\BibliotecaVeterinaria.deps.json
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\BibliotecaVeterinaria\bin\Debug\net5.0\BibliotecaVeterinaria.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\BibliotecaVeterinaria\bin\Debug\net5.0\ref\BibliotecaVeterinaria.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\BibliotecaVeterinaria\bin\Debug\net5.0\BibliotecaVeterinaria.pdb
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\BibliotecaVeterinaria\obj\Debug\net5.0\BibliotecaVeterinaria.csproj.AssemblyReference.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\BibliotecaVeterinaria\obj\Debug\net5.0\BibliotecaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\BibliotecaVeterinaria\obj\Debug\net5.0\BibliotecaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\BibliotecaVeterinaria\obj\Debug\net5.0\BibliotecaVeterinaria.AssemblyInfo.cs
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\BibliotecaVeterinaria\obj\Debug\net5.0\BibliotecaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\BibliotecaVeterinaria\obj\Debug\net5.0\BibliotecaVeterinaria.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\BibliotecaVeterinaria\obj\Debug\net5.0\ref\BibliotecaVeterinaria.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\BibliotecaVeterinaria\obj\Debug\net5.0\BibliotecaVeterinaria.pdb

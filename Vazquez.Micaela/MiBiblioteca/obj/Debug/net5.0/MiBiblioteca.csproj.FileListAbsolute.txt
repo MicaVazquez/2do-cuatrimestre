@@ -1,0 +1,12 @@
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\MiBiblioteca\bin\Debug\net5.0\MiBiblioteca.deps.json
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\MiBiblioteca\bin\Debug\net5.0\MiBiblioteca.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\MiBiblioteca\bin\Debug\net5.0\ref\MiBiblioteca.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\MiBiblioteca\bin\Debug\net5.0\MiBiblioteca.pdb
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\MiBiblioteca\obj\Debug\net5.0\MiBiblioteca.csproj.AssemblyReference.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\MiBiblioteca\obj\Debug\net5.0\MiBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\MiBiblioteca\obj\Debug\net5.0\MiBiblioteca.AssemblyInfoInputs.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\MiBiblioteca\obj\Debug\net5.0\MiBiblioteca.AssemblyInfo.cs
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\MiBiblioteca\obj\Debug\net5.0\MiBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\MiBiblioteca\obj\Debug\net5.0\MiBiblioteca.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\MiBiblioteca\obj\Debug\net5.0\ref\MiBiblioteca.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\MiBiblioteca\obj\Debug\net5.0\MiBiblioteca.pdb

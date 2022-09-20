@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EjercicioA02-La veterinaria/1.0.0": {
+        "dependencies": {
+          "BibliotecaVeterinaria": "1.0.0"
+        },
+        "runtime": {
+          "EjercicioA02-La veterinaria.dll": {}
+        }
+      },
+      "BibliotecaVeterinaria/1.0.0": {
+        "runtime": {
+          "BibliotecaVeterinaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicioA02-La veterinaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaVeterinaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

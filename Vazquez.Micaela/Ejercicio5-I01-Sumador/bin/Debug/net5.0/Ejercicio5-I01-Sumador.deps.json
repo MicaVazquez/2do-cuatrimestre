@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio5-I01-Sumador/1.0.0": {
+        "dependencies": {
+          "ClassLibrarySobrecarga": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio5-I01-Sumador.dll": {}
+        }
+      },
+      "ClassLibrarySobrecarga/1.0.0": {
+        "runtime": {
+          "ClassLibrarySobrecarga.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio5-I01-Sumador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrarySobrecarga/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

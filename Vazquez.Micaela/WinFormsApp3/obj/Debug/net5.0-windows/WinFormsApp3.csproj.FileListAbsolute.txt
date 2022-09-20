@@ -1,0 +1,25 @@
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.FrmPrincipal.resources
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\bin\Debug\net5.0-windows\Ejercicio 2-I05.deps.json
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\bin\Debug\net5.0-windows\Ejercicio 2-I05.runtimeconfig.json
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\bin\Debug\net5.0-windows\Ejercicio 2-I05.runtimeconfig.dev.json
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\bin\Debug\net5.0-windows\Ejercicio 2-I05.exe
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\bin\Debug\net5.0-windows\Ejercicio 2-I05.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\bin\Debug\net5.0-windows\Ejercicio 2-I05.pdb
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CopyComplete

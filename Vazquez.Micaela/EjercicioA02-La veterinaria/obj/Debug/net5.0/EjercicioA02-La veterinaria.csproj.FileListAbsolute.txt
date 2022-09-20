@@ -1,0 +1,19 @@
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\EjercicioA02-La veterinaria\bin\Debug\net5.0\EjercicioA02-La veterinaria.exe
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\EjercicioA02-La veterinaria\bin\Debug\net5.0\EjercicioA02-La veterinaria.deps.json
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\EjercicioA02-La veterinaria\bin\Debug\net5.0\EjercicioA02-La veterinaria.runtimeconfig.json
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\EjercicioA02-La veterinaria\bin\Debug\net5.0\EjercicioA02-La veterinaria.runtimeconfig.dev.json
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\EjercicioA02-La veterinaria\bin\Debug\net5.0\EjercicioA02-La veterinaria.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\EjercicioA02-La veterinaria\bin\Debug\net5.0\ref\EjercicioA02-La veterinaria.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\EjercicioA02-La veterinaria\bin\Debug\net5.0\EjercicioA02-La veterinaria.pdb
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\EjercicioA02-La veterinaria\bin\Debug\net5.0\BibliotecaVeterinaria.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\EjercicioA02-La veterinaria\bin\Debug\net5.0\BibliotecaVeterinaria.pdb
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\EjercicioA02-La veterinaria\obj\Debug\net5.0\EjercicioA02-La veterinaria.csproj.AssemblyReference.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\EjercicioA02-La veterinaria\obj\Debug\net5.0\EjercicioA02-La veterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\EjercicioA02-La veterinaria\obj\Debug\net5.0\EjercicioA02-La veterinaria.AssemblyInfoInputs.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\EjercicioA02-La veterinaria\obj\Debug\net5.0\EjercicioA02-La veterinaria.AssemblyInfo.cs
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\EjercicioA02-La veterinaria\obj\Debug\net5.0\EjercicioA02-La veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\EjercicioA02-La veterinaria\obj\Debug\net5.0\EjercicioA02-La veterinaria.csproj.CopyComplete
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\EjercicioA02-La veterinaria\obj\Debug\net5.0\EjercicioA02-La veterinaria.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\EjercicioA02-La veterinaria\obj\Debug\net5.0\ref\EjercicioA02-La veterinaria.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\EjercicioA02-La veterinaria\obj\Debug\net5.0\EjercicioA02-La veterinaria.pdb
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\EjercicioA02-La veterinaria\obj\Debug\net5.0\EjercicioA02-La veterinaria.genruntimeconfig.cache

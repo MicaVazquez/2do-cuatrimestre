@@ -1,0 +1,16 @@
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\Ejercicio 2-I05\bin\Debug\net5.0\Ejercicio 2-I05.exe
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\Ejercicio 2-I05\bin\Debug\net5.0\Ejercicio 2-I05.deps.json
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\Ejercicio 2-I05\bin\Debug\net5.0\Ejercicio 2-I05.runtimeconfig.json
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\Ejercicio 2-I05\bin\Debug\net5.0\Ejercicio 2-I05.runtimeconfig.dev.json
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\Ejercicio 2-I05\bin\Debug\net5.0\Ejercicio 2-I05.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\Ejercicio 2-I05\bin\Debug\net5.0\ref\Ejercicio 2-I05.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\Ejercicio 2-I05\bin\Debug\net5.0\Ejercicio 2-I05.pdb
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\Ejercicio 2-I05\obj\Debug\net5.0\Ejercicio 2-I05.csproj.AssemblyReference.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\Ejercicio 2-I05\obj\Debug\net5.0\Ejercicio 2-I05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\Ejercicio 2-I05\obj\Debug\net5.0\Ejercicio 2-I05.AssemblyInfoInputs.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\Ejercicio 2-I05\obj\Debug\net5.0\Ejercicio 2-I05.AssemblyInfo.cs
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\Ejercicio 2-I05\obj\Debug\net5.0\Ejercicio 2-I05.csproj.CoreCompileInputs.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\Ejercicio 2-I05\obj\Debug\net5.0\Ejercicio 2-I05.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\Ejercicio 2-I05\obj\Debug\net5.0\ref\Ejercicio 2-I05.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\Ejercicio 2-I05\obj\Debug\net5.0\Ejercicio 2-I05.pdb
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\Ejercicio 2-I05\obj\Debug\net5.0\Ejercicio 2-I05.genruntimeconfig.cache

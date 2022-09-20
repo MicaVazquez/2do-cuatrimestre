@@ -1,0 +1,12 @@
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\ClassLibrarySobrecarga\bin\Debug\net5.0\ClassLibrarySobrecarga.deps.json
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\ClassLibrarySobrecarga\bin\Debug\net5.0\ClassLibrarySobrecarga.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\ClassLibrarySobrecarga\bin\Debug\net5.0\ref\ClassLibrarySobrecarga.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\ClassLibrarySobrecarga\bin\Debug\net5.0\ClassLibrarySobrecarga.pdb
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\ClassLibrarySobrecarga\obj\Debug\net5.0\ClassLibrarySobrecarga.csproj.AssemblyReference.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\ClassLibrarySobrecarga\obj\Debug\net5.0\ClassLibrarySobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\ClassLibrarySobrecarga\obj\Debug\net5.0\ClassLibrarySobrecarga.AssemblyInfoInputs.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\ClassLibrarySobrecarga\obj\Debug\net5.0\ClassLibrarySobrecarga.AssemblyInfo.cs
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\ClassLibrarySobrecarga\obj\Debug\net5.0\ClassLibrarySobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\ClassLibrarySobrecarga\obj\Debug\net5.0\ClassLibrarySobrecarga.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\ClassLibrarySobrecarga\obj\Debug\net5.0\ref\ClassLibrarySobrecarga.dll
+C:\Users\PC-INC\Desktop\2do-Cuatrimestre\Vazquez.Micaela\ClassLibrarySobrecarga\obj\Debug\net5.0\ClassLibrarySobrecarga.pdb
